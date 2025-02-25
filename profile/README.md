@@ -83,4 +83,4 @@ Libnaus Studio est un projet en cours de développement. Les conditions d'utilis
 
 ---
 
-<h1 align="center">📌 **Développé avec passion par l'équipe Libnaus Studio** 🚀</h1>
+<h1 align="center">📌 Développé avec passion par l'équipe Libnaus Studio 🚀</h1>
